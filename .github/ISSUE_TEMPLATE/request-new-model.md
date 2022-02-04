@@ -1,8 +1,8 @@
 ---
 name: Request new model
 about: Request a model to be trained on Open Images V6 dataset (OIDv6)
-title: ''
-labels: ''
+title: "[TRAIN] - "
+labels: train model
 assignees: ''
 
 ---
